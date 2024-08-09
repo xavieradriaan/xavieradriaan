@@ -2,7 +2,7 @@
 
 ![QA Automation](https://github.com/user-attachments/assets/d48e0979-e400-498f-af4d-46ff67aac6f2)
 
-Welcome to my GitHub profile! I'm a passionate **QA Automation Engineer** with 4 years of experience in testing and 7 years as a developer. Dedicated to ensuring high-quality software through meticulous testing and automation, I bring a strong foundation in software testing and a keen eye for detail. I strive to deliver reliable and efficient automation solutions while leveraging my extensive development background to create robust and scalable test strategies.
+Welcome to my GitHub profile! I'm a passionate **QA Automation Engineer** with 4 years of experience in testing and 7 years as a developer. Dedicated to ensuring high-quality software through meticulous testing and automation.
 
 
 ### 🌟 What I Do:
@@ -16,13 +16,13 @@ Welcome to my GitHub profile! I'm a passionate **QA Automation Engineer** with 4
 Developing a machine learning model that automatically generates test cases based on user stories and acceptance criteria, streamlining the test creation process for Agile teams.
 - **🔗 Blockchain QA Framework**
 Building a robust QA framework for testing blockchain applications, focusing on smart contract verification, transaction integrity, and decentralized security testing.
-- *🌐 IoT Device Certification Platform**
+- **🌐 IoT Device Certification Platform**
 Designing a platform that automates the certification process for IoT devices, including compliance testing for security, connectivity, and performance across different environments.
 - **🌍 Global Localization Testing Hub**
 Developing a toolset that automates the localization testing process for global applications, ensuring language accuracy, cultural relevance, and regional compliance.
 - **☁️ Serverless Testing Framework**
 Creating a lightweight framework for automating the testing of serverless architectures, focusing on function performance, API integration, and scalability under load.
-- *🏠 Smart Home Ecosystem Testing**
+- **🏠 Smart Home Ecosystem Testing**
 Automating the end-to-end testing of smart home ecosystems, ensuring seamless interoperability between devices, security protocols, and user experience optimization.
 - **🌱 Sustainable Software Testing Initiative**
 Leading a project to integrate sustainability practices into software testing, including energy-efficient test execution, carbon footprint reduction, and eco-friendly CI/CD pipelines.
@@ -40,7 +40,7 @@ Building a simulation environment to automate the testing of autonomous vehicle 
 - **🍫 Chocolate Paccari Project:**
    - Developed a quality assurance framework for the supply chain of Paccari Chocolate, implementing end-to-end tests to ensure product quality from bean to bar.
 
-**🏦 Banco Bolivariano:**
+- **🏦 Banco Bolivariano:**
    - Led the automation of the onboarding process for credit card applications, focusing on improving security, user experience, and processing efficiency.
 
 - **📱 Claro Ecuador:**
@@ -63,8 +63,8 @@ Building a simulation environment to automate the testing of autonomous vehicle 
 - **📚 Best Practices in Automation**
 
 ### 📫 How to Reach Me:
-- **📧 Email:** [adrian.andrade@example.com](mailto:xaviline6@live.com)
-- **💼 LinkedIn:** [Adrián Andrade on LinkedIn]([https://www.linkedin.com/in/adrian-andrade)]
+- **📧 Email:** [xaviline6@live.com](mailto:xaviline6@live.com)
+- **💼 LinkedIn:** [Adrián Andrade on LinkedIn](https://www.linkedin.com/in/adrian-andrade)
 
 ### 🛠️ Technologies and Tools Used:
 - 📌 **Manual Testing:** UI, APIs, DB, and E2E.
