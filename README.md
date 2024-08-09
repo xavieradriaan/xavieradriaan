@@ -64,7 +64,7 @@ Building a simulation environment to automate the testing of autonomous vehicle 
 
 ### 📫 How to Reach Me:
 - **📧 Email:** [xaviline6@live.com](mailto:xaviline6@live.com)
-- **💼 LinkedIn:** [Adrián Andrade on LinkedIn]([https://www.linkedin.com/in/adrian-andrade](https://www.linkedin.com/in/adri%C3%A1n-andrade-44963a141/))
+- **💼 LinkedIn:** [Adrián Andrade on LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-andrade-44963a141/)
 
 ### 🛠️ Technologies and Tools Used:
 - 📌 **Manual Testing:** UI, APIs, DB, and E2E.
